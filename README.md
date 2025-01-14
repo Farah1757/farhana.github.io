@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 
 <html>
-  <STYLE>
+  <HEAD> <STYLE>
   .bg-image {
   /* The image used */
   background-image: url("IMG_6004.jpeg");
@@ -21,7 +21,8 @@
   background-size: cover;
 }
 
-</STYLE>
+</STYLE></HEAD>
+ 
 <body>
 <div class="bg-image"></div>
 <p>This is a paragraph.</p>
