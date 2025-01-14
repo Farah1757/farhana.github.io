@@ -16,7 +16,10 @@ img1 {
 </HEAD>
  
 <body>
+  <div>
 <h1>FARHANA TABASSUM</h1>
+  </div>
+  
 
 <p>This is a paragraph.</p>
 <p>This is another paragraph.</p>
