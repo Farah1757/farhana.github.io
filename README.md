@@ -6,7 +6,12 @@
   <HEAD>
     <link href="./css/custom_bootstrap.css" rel="stylesheet"/>
   <sytle>
-
+img {
+    width:300px;
+    height:300px;
+    position:absolute;
+    opacity:0.2;
+}
   </sytle>
 </HEAD>
  
@@ -17,7 +22,7 @@
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
   <div >
-    <img  filter=blur(80px) src="IMG_6004.jpeg">
+    <img   src="IMG_6004.jpeg">
   </div>
 
 </body>
