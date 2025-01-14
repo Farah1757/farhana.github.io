@@ -4,6 +4,7 @@
 
 <html>
   <HEAD>
+    <link href="./css/custom_bootstrap.css" rel="stylesheet"/>
   <sytle>
     .bg-image {
   filter: blur(8px);
