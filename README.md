@@ -26,7 +26,7 @@ img1 {
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
   <div class="img1">
-    <img   src="IMG_6004.jpeg">
+    <img  sytle="filter:blur(8px)"; src="IMG_6004.jpeg">
   </div>
 
 </body>
