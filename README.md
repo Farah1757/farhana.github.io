@@ -6,7 +6,7 @@
   <HEAD>
     <link href="./css/custom_bootstrap.css" rel="stylesheet"/>
   <sytle>
-.img {
+.img1 {
     width:300px;
     height:300px;
     position:absolute;
@@ -21,7 +21,7 @@
 <p>This is another paragraph.</p>
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
-  <div >
+  <div class="img1">
     <img   src="IMG_6004.jpeg">
   </div>
 
