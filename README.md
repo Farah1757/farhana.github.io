@@ -6,6 +6,7 @@
   <HEAD>
     <link href="./css/custom_bootstrap.css" rel="stylesheet"/>
   <sytle>
+    div {text-align: center;}
 img1 {
      filter: blur(8px);
   -webkit-filter: blur(8px);
@@ -15,6 +16,7 @@ img1 {
 </HEAD>
  
 <body>
+<h1>FARHANA TABASSUM</h1>
 
 <p>This is a paragraph.</p>
 <p>This is another paragraph.</p>
