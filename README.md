@@ -5,23 +5,10 @@
 <html>
   <HEAD>
     <link href="./css/custom_bootstrap.css" rel="stylesheet"/>
-  <sytle>
-    div {text-align: center;}
-
-  </sytle>
 </HEAD>
- 
-<body>
-  <div>
-<h1>FARHANA TABASSUM</h1>
-  </div>
-  
-
-<p>This is a paragraph.</p>
-<p>This is another paragraph.</p>
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-  <div >
+ <body>
+  <div><h1>FARHANA TABASSUM</h1> </div>
+   <div >
     <img   src="IMG_6004.jpeg"  style="filter:blur(5px);">
   </div>
 
