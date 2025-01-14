@@ -7,11 +7,7 @@
     <link href="./css/custom_bootstrap.css" rel="stylesheet"/>
   <sytle>
     div {text-align: center;}
-img1 {
-     filter: blur(8px);
-  -webkit-filter: blur(8px);
-  
-}
+
   </sytle>
 </HEAD>
  
@@ -25,8 +21,8 @@ img1 {
 <p>This is another paragraph.</p>
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
-  <div class="img1">
-    <img  sytle="filter:blur(8px)"; src="IMG_6004.jpeg">
+  <div >
+    <img  sytle="filter:blur(10px)"; src="IMG_6004.jpeg">
   </div>
 
 </body>
