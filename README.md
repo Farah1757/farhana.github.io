@@ -6,9 +6,7 @@
   <HEAD>
     <link href="./css/custom_bootstrap.css" rel="stylesheet"/>
   <sytle>
-    .image {
-  filter: blur(8px);
-  }
+
   </sytle>
 </HEAD>
  
