@@ -6,7 +6,7 @@
   <HEAD>
     <link href="./css/custom_bootstrap.css" rel="stylesheet"/>
   <sytle>
-    .bg-image {
+    .image {
   filter: blur(8px);
   }
   </sytle>
@@ -18,7 +18,7 @@
 <p>This is another paragraph.</p>
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
-  <div class="bg-image">
+  <div class="image">
     <img  class="image" src="IMG_6004.jpeg">
   </div>
 
