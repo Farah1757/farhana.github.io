@@ -7,7 +7,7 @@
     <STYLE>
 
 .image {
-  background-image: url('https://picsum.photos/id/16/1200/300');
+  background-image: src('IMG_6004.jpeg');
   height: 500px;
   background-size: cover;
   filter: blur(5px);
