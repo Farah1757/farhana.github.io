@@ -3,25 +3,18 @@
 <!DOCTYPE html>
 
 <html>
-  <HEAD> <STYLE>
-  .bg-image {
-  /* The image used */
-  background-image: url("IMG_6004.jpeg");
-  
-  /* Add the blur effect */
-  filter: blur(8px);
-  -webkit-filter: blur(8px);
-  
-  /* Full height */
-  height: 100%; 
-  
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
+  <HEAD>
+    <STYLE>
+
+.image {
+  background-image: url('https://picsum.photos/id/16/1200/300');
+  height: 500px;
   background-size: cover;
+  filter: blur(5px);
 }
 
-</STYLE></HEAD>
+</STYLE>
+</HEAD>
  
 <body>
 <div class="bg-image"></div>
@@ -29,6 +22,6 @@
 <p>This is another paragraph.</p>
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
-<img src="IMG_6004.jpeg">
+<img  class="image" src="IMG_6004.jpeg">
 </body>
 </html>
