@@ -1,7 +1,7 @@
 
 
 <!DOCTYPE html>
-
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <html>
   <HEAD>
     <link href="./css/custom_bootstrap.css" rel="stylesheet"/>
