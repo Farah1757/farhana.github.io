@@ -22,7 +22,7 @@
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
   <div >
-    <img  style="filter:blur('5px')"; src="IMG_6004.jpeg">
+    <img  style="filter:blur(5px)"; src="IMG_6004.jpeg">
   </div>
 
 </body>
