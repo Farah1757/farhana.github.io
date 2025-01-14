@@ -1,7 +1,9 @@
 
 
 <!DOCTYPE html>
-<STYLE>
+
+<html>
+  <STYLE>
   .bg-image {
   /* The image used */
   background-image: url("IMG_6004.jpeg");
@@ -20,8 +22,6 @@
 }
 
 </STYLE>
-<html>
-  
 <body>
 <div class="bg-image"></div>
 <p>This is a paragraph.</p>
