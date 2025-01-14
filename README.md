@@ -19,7 +19,7 @@
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
   <div class="image">
-    <img  class="image" src="IMG_6004.jpeg">
+    <img  filter=blur(80px) src="IMG_6004.jpeg">
   </div>
 
 </body>
