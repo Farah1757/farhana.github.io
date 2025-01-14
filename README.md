@@ -6,7 +6,7 @@
   <HEAD>
     <link href="./css/custom_bootstrap.css" rel="stylesheet"/>
   <sytle>
-.img1 {
+img1 {
      filter: blur(8px);
   -webkit-filter: blur(8px);
   
