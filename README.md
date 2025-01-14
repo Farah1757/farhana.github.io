@@ -7,10 +7,9 @@
     <link href="./css/custom_bootstrap.css" rel="stylesheet"/>
   <sytle>
 .img1 {
-    width:300px;
-    height:300px;
-    position:absolute;
-    opacity:0.2;
+     filter: blur(8px);
+  -webkit-filter: blur(8px);
+  
 }
   </sytle>
 </HEAD>
