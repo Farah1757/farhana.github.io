@@ -6,8 +6,6 @@
   <HEAD>
   <sytle>
     .bg-image {
-
-  /* Add the blur effect */
   filter: blur(8px);
   }
   </sytle>
