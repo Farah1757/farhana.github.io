@@ -16,7 +16,7 @@
 <p>This is another paragraph.</p>
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
-  <div class="image">
+  <div >
     <img  filter=blur(80px) src="IMG_6004.jpeg">
   </div>
 
