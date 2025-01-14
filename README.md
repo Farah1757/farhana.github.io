@@ -7,7 +7,7 @@
     <STYLE>
 
 .image {
-  background-image: src('IMG_6004.jpeg');
+
   height: 500px;
   background-size: cover;
   filter: blur(5px);
