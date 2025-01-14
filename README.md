@@ -6,7 +6,7 @@
   <HEAD>
     <link href="./css/custom_bootstrap.css" rel="stylesheet"/>
   <sytle>
-img {
+.img {
     width:300px;
     height:300px;
     position:absolute;
