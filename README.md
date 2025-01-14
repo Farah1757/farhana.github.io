@@ -4,16 +4,7 @@
 
 <html>
   <HEAD>
-    <STYLE>
-
-.image {
-
-  height: 500px;
-  background-size: cover;
-  filter: blur(5px);
-}
-
-</STYLE>
+  
 </HEAD>
  
 <body>
